@@ -1,0 +1,58 @@
+{
+    "name": "Discord+",
+    "description": "Discord+ theme port for Vendetta",
+    "authors": [
+        {
+            "name": "playagain96",
+            "id": "772833514030497813"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#FFFFFF"
+        ],
+        "HEADER_SECONDARY": [
+            "#B6649C"
+        ],
+        "TEXT_NORMAL": [
+            "#FFFFFF"
+        ],
+        "TEXT_MUTED": [
+            "#4E525C"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#B6649C"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#39112D"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#4E525C"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#1D0313"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#1D0313"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#1D0313"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#1D0313"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#B6649C"
+        ]
+    },
+    "rawColors": {},
+    "background": {
+		"blur": "0",
+		"url": "https://i.imgur.com/3AiL3yN.png",
+		"alpha": "0.8"
+	}
+	"spec": 1
+}
