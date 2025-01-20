@@ -50,9 +50,9 @@
     },
     "rawColors": {},
     "background": {
-		"blur": 0,
+		"blur": 0.6,
 		"url": "https://raw.githubusercontent.com/playagain96/BunnyDiscordPlus/refs/heads/main/undefined%20-%20Imgur.png",
-		"alpha": 0.8
+		"alpha": 1
 	},
 	"spec": 2
 }
