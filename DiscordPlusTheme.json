@@ -7,7 +7,11 @@
             "id": "772833514030497813"
         }
     ],
-    "semanticColors": {
+    "plus": {
+		"version": 0,
+		"iconpack": "rosiecord-plumpy"
+	},
+	"semanticColors": {
         "HEADER_PRIMARY": [
             "#FFFFFF"
         ],
@@ -48,11 +52,119 @@
             "#B6649C"
         ]
     },
-    "rawColors": {},
+    "rawColors": {
+		"BLACK_500": [
+		"#B6649C"
+		],
+		"BRAND_260": [
+		"#B6649C"
+		],
+		"BRAND_360": [
+		"#B6649C"
+		],
+		"BRAND_500": [
+		"#B6649C"
+		],
+		"BRAND_560": [
+		"#39112D"
+		],
+		"GREEN_360": [
+		"#39112D"
+		],
+		"PLUM_1": [
+		"#FFFFFF"
+		],
+		"PLUM_3": [
+		"#FFFFFF"
+		],
+		"PLUM_6": [
+		"#FFFFFF"
+		],
+		"PLUM_9": [
+		"#FFFFFF"
+		],
+		"PLUM_10": [
+		"#FFFFFF"
+		],
+		"PLUM_11": [
+		"#1D0313"
+		],
+		"PLUM_13": [
+		"#1D0313"
+		],
+		"PLUM_16": [
+		"#1D0313"
+		],
+		"PLUM_17": [
+		"#1D0313"
+		],
+		"PLUM_18": [
+		"#1D0313"
+		],
+		"PLUM_19": [
+		"#1D0313"
+		],
+		"PLUM_20": [
+		"#0F020A"
+		],
+		"PLUM_22": [
+		"#0F020A"
+		],
+		"PLUM_24": [
+		"#0F020A"
+		],
+		"PRIMARY_230": [
+		"#FFFFFF"
+		],
+		"PRIMARY_300": [
+		"#FFFFFF"
+		],
+		"PRIMARY_400": [
+		"#FFFFFF"
+		],
+		"PRIMARY_500": [
+		"#FFFFFF"
+		],
+		"PRIMARY_600": [
+		"#000000"
+		],
+		"PRIMARY_660": [
+		"#1D0313"
+		],
+		"RED_400": [
+		"#EF3B47"
+		],
+		"ROLE_DEFAULT": [
+		"#1D0313"
+		],
+		"WHITE_500": [
+		"#39112D"
+		]
+	},
     "background": {
-		"blur": 0,
+		"blur": 0.8,
 		"url": "https://raw.githubusercontent.com/playagain96/BunnyDiscordPlus/refs/heads/main/undefined%20-%20Imgur.png",
 		"alpha": 0.8
+	},
+	"fonts": {
+		"ABCGintoNord-ExtraBold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "ggsans-Bold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "ggsans-BoldItalic": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "ggsans-ExtraBold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "ggsans-Medium": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "ggsans-MediumItalic": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "ggsans-Normal": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "ggsans-NormalItalic": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "ggsans-Semibold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "NotoSans-Bold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "NotoSans-ExtraBold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "NotoSans-Medium": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "NotoSans-Normal": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "NotoSans-NormalItalic": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "NotoSans-Semibold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf",
+        "SourceCodePro-Semibold": "https://github.com/playagain96/BunnyTorusFont/raw/refs/heads/main/TorusNotched-SemiBold.ttf"
 	},
 	"spec": 2
 }
